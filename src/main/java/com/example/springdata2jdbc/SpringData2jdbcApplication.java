@@ -1,0 +1,13 @@
+package com.example.springdata2jdbc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringData2jdbcApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringData2jdbcApplication.class, args);
+	}
+
+}
